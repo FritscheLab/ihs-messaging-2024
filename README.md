@@ -76,8 +76,8 @@ The project uses a series of R scripts to generate and combine prompt components
    Rscript scripts/R/02_format_output.R
    ```
 
-### Python Script for Message Generation
-Once the prompts are generated, use the Python script to call the OpenAI API and generate messages:
+### Python Script for Individual Message Generation
+You can use the Python script to call the OpenAI API and generate messages:
 ```bash
 python scripts/python/ihs_message_generation.py --input_file results/your_user_request.txt --config_file .config.ini --system_prompt results/your_prompt.txt --output_dir results --output_prefix your_prefix
 ```
@@ -85,7 +85,7 @@ python scripts/python/ihs_message_generation.py --input_file results/your_user_r
 
 ## Project Structure
 ```
-ihs-intervention-messages/
+ihs-messaging-2024/
 ├── .config.ini               # Configuration file containing your OpenAI API key
 ├── data
 │   └── prompt_elements       # Static text files and prompt components
