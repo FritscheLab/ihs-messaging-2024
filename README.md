@@ -40,7 +40,14 @@ pip install -r requirements.txt
 - The Python scripts are located in `scripts/python`.
 
 ### 4. Configuration
-- Place your configuration file (e.g., API keys) in the root directory as `config` (or adjust the file path in the scripts as needed).
+Before running the scripts, create a `.config.ini` file in the root directory with your OpenAI API key. The file should have the following format:
+
+```ini
+[openai]
+api_key = YOUR_API_KEY_HERE
+```
+
+Replace `YOUR_API_KEY_HERE` with your actual OpenAI API key. This configuration file is used by the Python scripts to authenticate API calls.
 
 ## Requirements
 - **R**: Version ≥ 3.6.0 with packages: `data.table`, `openxlsx`
@@ -60,7 +67,7 @@ The project uses a series of R scripts to generate and combine prompt components
    ```bash
    Rscript scripts/R/01_generate_prompts.R
    ```
-3. **Run the command lines**
+3. **Run the Command Lines**
    ```bash
    results/command_lines.sh
    ```
@@ -79,15 +86,15 @@ python scripts/python/ihs_message_generation.py --input_file results/your_user_r
 ## Project Structure
 ```
 ihs-intervention-messages/
-├── config                     # Configuration file (e.g., API keys)
+├── .config.ini               # Configuration file containing your OpenAI API key
 ├── data
-│   └── prompt_elements        # Static text files and prompt components
-├── results                    # Generated prompts, messages, and output files
+│   └── prompt_elements       # Static text files and prompt components
+├── results                   # Generated prompts, messages, and output files
 ├── scripts
-│   ├── python                 # Python scripts (API calls and message generation)
-│   └── R                      # R scripts (prompt generation, combination, and formatting)
-├── README.md                  # This file
-└── requirements.txt           # Python dependencies
+│   ├── python                # Python scripts (API calls and message generation)
+│   └── R                     # R scripts (prompt generation, combination, and formatting)
+├── README.md                 # This file
+└── requirements.txt          # Python dependencies
 ```
 
 ## Contributing
