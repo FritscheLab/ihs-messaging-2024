@@ -1,0 +1,7 @@
+**Example Output:**
+The following examples serve as templates to guide the creation of your messages. They demonstrate the structure and tone that should be used when tailoring messages to different data relevances (Neutral, Low, Medium, High). Each example highlights how to adjust the message according to the interns' varying levels of data while maintaining a consistent thematic focus. Use these as a starting point to develop personalized messages that resonate with the specific experiences and emotional states of the medical interns:
+
+Neutral: "Training to become a physician isn't easy. There will be ups & downs. Remember, you're not in this alone."
+Low: "Training to become a physician is a long, difficult process with ups & downs. Remember, you're not in this alone."
+Medium: "Training to become a physician isn't easy. There will be ups & downs. Remember, you're not in this alone."
+High: "Training to become a physician isn't easy. There will be ups & downs. Remember, you're not in this alone. Keep up the good work!"

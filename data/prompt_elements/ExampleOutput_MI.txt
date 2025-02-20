@@ -1,0 +1,6 @@
+
+**Example Output:**
+Neutral: "What steps can you take today to enhance your well-being amidst your busy schedule? Your ability to navigate this challenge has always been impressive."
+Low: "Given the stresses you've faced, what are small steps you can take today to feel more in control? Remember, each step you take is progress."
+Medium: "As you balance your responsibilities, what actions today would make you feel more accomplished and less stressed? You know what works best for you."
+High: "You've been managing your duties well. What additional steps can you take to further enhance your well-being and continue your success?"

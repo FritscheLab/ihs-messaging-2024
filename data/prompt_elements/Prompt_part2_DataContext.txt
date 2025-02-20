@@ -1,0 +1,22 @@
+### Task Description:
+**Objective:** Develop four tailored messages that resonate with the experiences of medical interns. Each message should align with a common theme, be consistent in style, yet differentiated by the intern’s specific data over a given time interval for personalization and relevance.
+
+#### General Instructions:
+- **Reference the Intern Situation:** Ensure each message (Neutral, Low, Medium, High) references the provided intern situation to enhance relevance and connection.
+- **Variation in Descriptors:** Introduce variability in time descriptors to enhance the appeal and reduce repetitiveness. For instance, alternate between "week" and "7 days" or "month" and "30 days" as contextually appropriate.
+- **Placeholder Inclusion:** If requested, the Low, Medium, and High messages must include the placeholder for data value; however, an included placeholder is not a replacement for the required data insights. The message must still include the following: statistical descriptor, metric, and time interval.
+
+#### Message Categories:
+- **Neutral:** Create a general message that is applicable to all interns, without assuming any specific data insights.
+- **Low:** Begin with the data insights (must include the following: statistical descriptor, metric, and time interval), then craft a message for an intern with lower values in the metric.
+- **Medium:** Begin with the data insights (must include the following: statistical descriptor, metric, and time interval), then craft a message for an intern with moderate values in the metric.
+- **High:** Begin with the data insights (must include the following: statistical descriptor, metric, and time interval), then craft a message for an intern with higher values in the metric.
+
+#### Example Output Format:
+Follow these guidelines to structure the messages effectively:
+- **Label:** Begin each message with a label reflecting the data category (Neutral, Low, Medium, High).
+- **Content:** Directly after the label, present the message enclosed in quotes to highlight its standalone nature.
+- **Consistency:** Keep each message on a separate line to maintain clarity.
+- **Length:** Ensure each message is concise yet impactful, ideally not exceeding three sentences.
+- **Plain Text Only:** Generate the response in plain text without any special formatting characters like asterisks, underscores, or markdown.
+- **Avoid Fixation:** Use the examples as a guide but avoid repeating the same phrases or ideas. Ensure each message is unique and tailored to the specific context.

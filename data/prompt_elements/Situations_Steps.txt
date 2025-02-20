@@ -1,0 +1,26 @@
+Night Shifts: Night shifts can lead to prolonged periods of inactivity due to fewer opportunities for movement at night.
+On-call Duties: Being on call might confine interns to specific areas, limiting step counts.
+Emotional Strain: High emotional stress can lead to decreased motivation for physical activity.
+High Workload: Intense work periods often confine interns to desks or specific wards, reducing steps.
+Shift Work Disorder: Disrupted sleep patterns and fatigue from shift work may lead to lower overall physical activity levels.
+Prolonged Meetings: Extended meetings, rounds, or conferences can limit opportunities for movement, reducing step counts.
+Administrative Duties: Completing documentation and other administrative tasks can reduce physical activity.
+Extended Patient Consultations: Lengthy consultations or procedures can confine interns to specific areas.
+Training Sessions: Mandatory training sessions or educational workshops often involve prolonged sitting.
+Limited Breaks: Short or infrequent breaks can reduce opportunities for movement.
+Intensive Study Periods: Preparation for exams or reviewing patient cases may require extended periods of sitting.
+Use of Elevators: Frequent use of elevators instead of stairs can reduce step counts.
+Working in Small Clinics: Limited space in smaller clinics or offices can restrict movement.
+Commuting by Car: Driving to and from work instead of walking or biking can reduce daily steps.
+Lack of Green Spaces: Absence of nearby parks or walking trails can limit opportunities for outdoor activity.
+Fatigue from Long Shifts: Exhaustion from extended shifts can decrease motivation for additional physical activity.
+Lack of Gym Access: Limited access to fitness facilities or equipment can impact exercise routines.
+Lengthy Case Discussions: Detailed case discussions with supervisors and colleagues can require extended periods of sitting.
+Hospital Rounds: While rounds involve moving, they also include long periods of standing still and discussing cases.
+Medical Conferences: Attending medical conferences or seminars, either in person or virtually, involves long periods of sitting.
+Electronic Medical Records (EMR) Usage: Frequent use of EMRs can lead to extended periods of sitting in front of a computer.
+Patient Monitoring: Continuous monitoring of critically ill patients can confine interns to specific areas with limited movement.
+Specialty Clinics: Rotations in certain specialties, like radiology or pathology, may involve more sitting and less movement.
+Remote Consultations: Conducting telehealth consultations can lead to prolonged periods of sitting.
+Research Activities: Participation in clinical research or studies often requires extensive data entry and analysis, which is sedentary.
+Documentation Requirements: Stringent documentation requirements for compliance and legal purposes can increase desk time.

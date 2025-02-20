@@ -1,0 +1,7 @@
+**Example Output with Data Context:**
+The following examples serve as templates to guide the creation of your messages. They demonstrate the structure and tone that should be used when tailoring messages to different data relevances (Neutral, Low, Medium, High). Each example highlights how to adjust the message according to the interns' varying levels of data while maintaining a consistent thematic focus. Use these as a starting point to develop personalized messages that resonate with the specific experiences and emotional states of the medical interns:
+
+Neutral: "Checking your Fitbit or Apple watch for at-home exercises is a great way to de-stress."
+Low: "Your avg steps since internship started: <%CustomField.Metric_Steps_Avg_PhaseBegin%>. To lower stress & up activity, check your Fitbit or Apple watch for tips on at-home exercises."
+Medium: "Your avg steps since internship started: <%CustomField.Metric_Steps_Avg_PhaseBegin%>. If you feel stressed, check your Fitbit or Apple watch for tips on at-home exercises."
+High: "Your avg steps since internship started: <%CustomField.Metric_Steps_Avg_PhaseBegin%>. Checking your Fitbit or Apple watch for at-home exercises is a great way to de-stress."

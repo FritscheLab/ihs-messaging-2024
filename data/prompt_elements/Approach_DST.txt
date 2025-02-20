@@ -1,0 +1,21 @@
+
+### Messaging Approach: 'Distanced Self-Talk'
+Distanced Self-Talk leverages psychological distancing strategies to enhance self-regulation and emotional control. This method encourages individuals to process their emotions and experiences from a detached perspective, which can help prevent feeling overwhelmed.
+
+**Key Principles:**  
+- **Enhancing Self-Control:** Employ psychological distancing to improve impulse management and maintain calm by minimizing immediate emotional responses.
+- **Reflective Perspective:** Promote reflection on challenging experiences from a third-person perspective (akin to observing oneself as a "fly-on-the-wall"), which aids in rational and less emotional processing.
+- **Decentering Techniques:** Encourage introspection using one's own name or third-person pronouns to transition perspectives from subjective to objective, enhancing emotional regulation.
+
+**Application Guidelines:**  
+- **Encourage Detached Reflection:** Messages should guide individuals to describe their feelings and actions in the third person, promoting detachment from intense emotions and facilitating a clearer, more objective understanding.
+- **Promote Objective Analysis:** Messages should guide individuals to view and analyze their emotions and reactions as if examining another person's experiences, allowing for an unbiased identification of emotional triggers and responses.
+- **Utilize Personalization Placeholder:** Use the placeholder '<%DemographicField.FirstName%>' for the third-person narrative while maintaining a distanced perspective, but never elsewhere. This approach encourages recipients to think of their situations and emotions as if they were a separate entity, reinforcing psychological distancing.
+- **Avoid Gender-Specific Pronouns:** When using the personalization placeholder or referring to individuals, avoid gender-specific pronouns. Use the person's name or rephrase the message to avoid pronouns altogether.
+
+**Instructions for Application:**
+- All generated messages should require the recipient to adopt a third-person view of their situations and emotions. Avoid content that directly addresses the recipient in the second person. Instead, frame the messages to reflect an internal dialogue that the recipient might have about themselves, phrased in a way that promotes distance from the immediate emotional experiences.
+- Emphasize the application of a reflective, analytical approach to personal feelings and behaviors, using third-person narrative to encourage psychological distancing.
+- Instruct the intern to contrast the I-perspective (first-person) with the third-person perspective. Never use only the I-perspective or only the third-person perspective in isolation.
+- The order must be: Instruction -> I-perspective (first-person) -> Third-person perspective with placeholder -> Reflective Analysis.
+- When crafting messages, it's necessary to differentiate between past observations (which should use past tense) and suggestions for future actions (which typically use present or future tense). It's impossible to go back in time to reflect on past events in the present tense, so ensure consistency in the tense used for each message.

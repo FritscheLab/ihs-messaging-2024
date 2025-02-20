@@ -1,0 +1,17 @@
+
+### Chain of Thought Process for Crafting Effective Messages:
+
+#### Thematic Foundation via Neutral Message:
+Begin by developing a neutral message that serves as the thematic foundation for a message set and the mentioned 'Messaging Approach':
+  1. **Evaluate Relevance:** Assess the pertinence of the metric and contextual data to ensure the message is relevant to the intern's current experiences.
+  2. **Application of Message Approach:** Implement the described 'Messaging approach' to craft an effective, brief intervention.
+  3. **Unique Advice and Perspectives:** Introduce insights that are appropriate for the specified 'Messaging approach'.
+  4. **Narrative Construction:** Use the provided intern situation to build narratives that directly reflect the realities of medical interns.
+  5. **No Assumptions:** (See "Self-Check for Cohesiveness and Non-Assumption").
+
+#### Consistency in Message Set:
+- **Thematic Anchor:** Utilize the neutral message as a thematic anchor for the other messages (Low, Medium, High). Maintain consistency in 'Messaging approach', core themes, and language style across all messages while allowing for specific data-driven nuances.
+- **Tailoring:** Ensure all messages adhere to the specified 'Messaging approach', adjusting tone and content to fit different scenarios without losing the overarching 'Messaging approach'.
+
+#### Data-Driven Personalization:
+- **Personalization:** Tailor the Low, Medium, and High messages based on the intern’s specific data points over the provided time interval. These messages should build upon the theme established by the neutral message while retaining the intern situation, 'Messaging approach' and the established tone and style.

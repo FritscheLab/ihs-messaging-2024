@@ -1,0 +1,53 @@
+MetricName	IntervalName	FunctionName	LowerQuantile	Median	UpperQuantile
+Mood	7 days	Average	6.5	7.3	8
+Mood	7 days	Minimum	5		8
+Mood	7 days	Maximum	7		9
+Hours of Sleep	7 days	Average	6.02	6.652778333	7.24
+Hours of Sleep	7 days	Minimum	3.983333333	5.166666667	6.016666667
+Hours of Sleep	7 days	Maximum	7.333333333	8.3	9.4
+Step Count	7 days	Average	6215	7986	10062
+Step Count	7 days	Minimum	1819	4216	6207
+Step Count	7 days	Maximum	9159	11818	15214
+Mood	30 days	Average	6.529412	7.285714	8
+Mood	30 days	Minimum	4		7
+Mood	30 days	Maximum	7		10
+Hours of Sleep	30 days	Average	6.07	6.617241667	7.1
+Hours of Sleep	30 days	Minimum	1.95	3.6	4.833333333
+Hours of Sleep	30 days	Maximum	8.366666667	9.483333333	10.7
+Step Count	30 days	Average	6373.967	7938.731	9787.333
+Step Count	30 days	Minimum	120	1184	3325
+Step Count	30 days	Maximum	11536	14690	18788
+Mood	Prior to internship	Average	7.2	7.8	8.384615
+Mood	Prior to internship	Minimum	4		7
+Mood	Prior to internship	Maximum	8		10
+Hours of Sleep	Prior to internship	Average	6.198685	6.72096	7.166385
+Hours of Sleep	Prior to internship	Minimum	2.033333333	4.1	5.279166667
+Hours of Sleep	Prior to internship	Maximum	8.004166667	8.933333333	9.833333333
+Step Count	Prior to internship	Average	6526.6	8387.614	10629.917
+Step Count	Prior to internship	Minimum	73	539	2285
+Step Count	Prior to internship	Maximum	12948	16757	22002
+Mood	Since start of internship	Average	6.7	7.352941	7.965517
+Mood	Since start of internship	Minimum	3		7
+Mood	Since start of internship	Maximum	8		10
+Hours of Sleep	Since start of internship	Average	5.98	6.528166667	6.93
+Hours of Sleep	Since start of internship	Minimum	1.266666667	2.316666667	3.966666667
+Hours of Sleep	Since start of internship	Maximum	8.716666667	9.983333333	11.45
+Step Count	Since start of internship	Average	6537.989	7986.857	9720.718
+Step Count	Since start of internship	Minimum	27	190	1698
+Step Count	Since start of internship	Maximum	13064	16604	21256
+SleepShift	7 days	Mean	-1.87	-0.91	-0.08
+SleepShift	7 days	Median	-1.58	-0.64	0.2
+SleepShift	7 days	Earliest	-0.18	0.58	1.14
+SleepShift	7 days	Latest	-4.46	-2.93	-1.43
+SleepShift	30 days	Mean	-1.91	-0.91	-0.09
+SleepShift	30 days	Median	-1.28	-0.26	0.45
+SleepShift	30 days	Earliest	0.67	1.33	1.86
+SleepShift	30 days	Latest	-7.92	-5.35	-2.88
+SleepShift	Prior to internship	Mean	-1.48	-0.71	-0.08
+SleepShift	Prior to internship	Median	-1.3	-0.58	0.04
+SleepShift	Prior to internship	Earliest	0.35	1	1.69
+SleepShift	Prior to internship	Latest	-4.34	-2.78	-1.7
+SleepShift	Since start of internship	Mean	-1.82	-0.87	-0.05
+SleepShift	Since start of internship	Median	-0.52	0.19	0.71
+SleepShift	Since start of internship	Earliest	1.54	2.21	3.04
+SleepShift	Since start of internship	Latest	-13.99	-11.43	-7.46

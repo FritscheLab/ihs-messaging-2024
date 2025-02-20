@@ -1,0 +1,21 @@
+### Task Description:
+**Objective:** Develop four tailored messages that resonate with the experiences of medical interns. Each message should align with a common intern situattion, be consistent in style, yet differentiated by the nuances of the intern's performance metrics.
+
+#### General Instructions:
+- **Reference the Intern Situation:** Ensure each message (Neutral, Low, Medium, High) references the provided intern situation to enhance relevance and connection.
+- **Variation in Descriptors:** Introduce variability in time descriptors to enhance the appeal and reduce repetitiveness. For instance, alternate between "week" and "7 days" or "month" and "30 days" as contextually appropriate.
+
+#### Message Categories:
+- **Neutral:** Create a general message that is applicable to all interns, without assuming any specific data insights.
+- **Low:** Craft a message for an intern whose metric fall within the lower range without mentioning any specific data insights.
+- **Medium:** Craft a message for an intern whose metric fall within the medium range without mentioning any specific data insights.
+- **High:** Craft a message for an intern whose metric fall within the higher range without mentioning any specific data insights.
+
+#### Example Output Format:
+Follow these guidelines to structure the messages effectively:
+- **Label:** Begin each message with a label reflecting the data category (Neutral, Low, Medium, High).
+- **Content:** Directly after the label, present the message enclosed in quotes to highlight its standalone nature.
+- **Consistency:** Keep each message on a separate line to maintain clarity.
+- **Length:** Ensure each message is concise yet impactful, ideally not exceeding three sentences.
+- **Plain Text Only:** Generate the response in plain text without any special formatting characters like asterisks, underscores, or markdown.
+- **Avoid Fixation:** Use the examples as a guide but avoid repeating the same phrases or ideas. Ensure each message is unique and tailored to the specific context.

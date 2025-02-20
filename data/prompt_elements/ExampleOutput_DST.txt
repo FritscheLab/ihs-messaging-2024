@@ -1,0 +1,13 @@
+
+**Reminder:**
+Ensure that for the Distanced Self-Talk Approach, each message MUST include the following parts:
+- A brief guide on how to apply the Distanced Self-Talk technique
+- The 'I' perspective
+- The distant perspective
+
+**Example Output:**
+
+Neutral: "Try seeing things from a new angle: Instead of 'I'm not sure how I feel,' ask 'How might <%DemographicField.FirstName%> be feeling right now?'"
+Low: "Shift your view: Move from 'I feel overwhelmed' to 'What factors are overwhelming <%DemographicField.FirstName%>?'"
+Medium: "Evaluate the difference: Change 'I'm managing' to 'What is helping <%DemographicField.FirstName%> manage effectively?'"
+High: "Observe the change: Transform 'I feel great' into 'What factors contribute to <%DemographicField.FirstName%>'s good mood?'"

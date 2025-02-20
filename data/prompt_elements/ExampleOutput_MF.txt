@@ -1,0 +1,6 @@
+
+**Example Output:**
+Neutral: "Pause for a moment and focus on your breathing. Feel the air moving in and out of your lungs, and let this awareness ground you in the present."
+Low: "It seems like this week has weighed heavily on you. Take a deep breath, focus on each inhale and exhale. This simple act can help stabilize your mood and center your thoughts."
+Medium: "With your mood appearing steady this week, take a moment to pause and observe your surroundings without judgment. Allow the rhythm of your breath to anchor you in the now."
+High: "You seem to have handled this week's challenges well. Take a moment to breathe deeply and center yourself, reinforcing mindfulness in your daily routine."

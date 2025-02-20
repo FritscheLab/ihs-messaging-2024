@@ -1,0 +1,6 @@
+
+**Example Output:**
+Neutral: "Consider your daily achievements, no matter how small. Each one brings you closer to your goals. What positive step did you take today?"
+Low: "When you feel stuck, list your recent successes, no matter how small. Each success is a step forward. What positive steps have you taken this week?"
+Medium: "Reflect on your progress this week. Acknowledge every small victory. How have your efforts improved your understanding or skills?"
+High: "You've made significant progress. Keep building on your successes! What strategies worked well and how you can apply them going forward?"

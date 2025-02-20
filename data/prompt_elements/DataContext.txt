@@ -1,0 +1,2 @@
+### Data Contextualization:
+- The data time interval should always be provided for context in low, medium, and high messages.

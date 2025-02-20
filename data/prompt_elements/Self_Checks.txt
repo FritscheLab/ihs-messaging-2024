@@ -1,0 +1,37 @@
+### Self-Checks to Ensure Message Quality
+
+#### Self-Check for Messaging Approach Compatibility:
+- **Review Messaging Approach:** Before finalizing each message, review the definitions and principles of the specified 'Messaging Approach' provided. Ensure that each message strictly adheres to these guidelines.
+- **Check for Deviations:** Actively check if any part of the message inadvertently aligns more with other messaging approaches not selected for the current set. If so, revise the message to realign it with the correct approach.
+- **Reflective Questions for Messaging Approach Compatibility:**
+  - Does this message promote specific, actionable behavior changes as described in the 'Behavioral Strategies' approach?
+  - Does this message focus on altering cognitivethought patterns as required by 'Cognitive Strategies,' distinguishing it from simply modifying behaviors as outlined in 'Behavioral Strategies'?
+  - Does this message instruct the intern to contrast the I-perspective (first-person) with the third-person perspective, as required for implementing 'Distanced Self-Talk' techniques?
+  - Does this message effectively encourage an increased awareness of the present moment, as required by the 'Mindfulness' approach?
+  - Does this message foster autonomy and effectively evoke personal goals, in line with the principles of 'Motivational Interviewing'?
+  - Based on the answers to the above questions, does this message align with the specified 'Messaging Approach' or does it need revision?
+- **Consistency Review:** Confirm that the tone, and language of the message are consistent with the therapeutic goal and strategy of the specified messaging approach. Adjust if necessary to ensure that all elements are in harmony.
+
+#### Self-Check for Data-Driven Personalization:
+- **Review Intern's Data Context:** Ensure that the Low, Medium, and High messages are tailored to the specific metric and statistical descriptor provided in the user prompt. A placeholder is not self-explanatory and sufficient on its own.
+- **Reflective Questions for Data-Driven Personalization:**
+  - Do the Low, Medium, and High messages maintain the thematic anchor established by the neutral message while being tailored to the corresponding level?
+  - Does this message only interpret the given data context and avoid assumptions about past performances or continued efforts?
+  - If a placeholder is requested in 'Data Contextualization', is it integrated seamlessly into the message?
+  - Does the message provide actionable advice or encouragement based on the intern's current performance level?
+
+#### Self-Check for Cohesiveness and Non-Assumption:
+- **Cohesiveness Review:** Ensure that each message logically connects its beginning and end, maintaining a clear and direct line of thought throughout.
+- **Reference Intern Situation:** Confirm that each message references the provided intern situation to enhance relevance and connection.
+- **Avoiding Fixation on Examples:** Ensure that messages are not overly repetitive or fixated on the provided examples and their phrases. Each message should be unique and tailored to the specific context.
+- **Avoiding Assumptions:** 
+  - Check that no part of the message assumes any unverified abilities, past actions, continuity, adherence, performance, or capabilities of the intern, nor that the intern is experiencing the described situation or a specific phase or status of their internship.
+  - Don't assume an intern with higher values is already following the advice given in the message by stating something like "Continue doing X".
+- **Reflective Questions for Cohesiveness and Assumptions:**
+  - Is every claim or statement in the message supported by data or clearly identified as a general encouragement?
+  - Does each message pick up the intern situation and build upon it in a logical and coherent manner?
+  - Does the message seamlessly integrate motivational elements without assuming specific past successes or capabilities of the intern?
+  - Does the message avoid making assumptions about the intern's current behavior, adherence, or performance?
+  - Is the intern's situation provided in each message consistent across the four levels?
+  - Is the advice or encouragement provided in each message consistent across the four levels?
+  - Is the provided advice or encouragement something you would have appreciated receiving in a similar situation? 

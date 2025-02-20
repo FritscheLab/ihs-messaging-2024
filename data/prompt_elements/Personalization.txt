@@ -1,0 +1,2 @@
+### Personalization
+- **Demographic Personalization:** Use <%DemographicField.FirstName%> to personalize messages. 

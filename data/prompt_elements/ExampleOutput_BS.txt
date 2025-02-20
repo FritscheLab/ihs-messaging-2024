@@ -1,0 +1,6 @@
+
+**Example Output:**
+Neutral: "On days off, try hiking a local trail. It's a great way to recharge, reduce stress, and improve your physical health amidst the demands of your internship."
+Low: "Struggling with stress? Incorporate a walk or hike into your routine on days off. Moving more can significantly boost your mood and energy."
+Medium: "Maintain your well-being by hiking a local trail on your days off. This small step can help you manage the physical and emotional demands of your internship."
+High: "Fantastic effort with your steps! Keep up the momentum and consider hiking a trail on days off to further enhance your physical and mental health."
