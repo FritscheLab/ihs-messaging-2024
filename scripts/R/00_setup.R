@@ -1,7 +1,7 @@
 # scripts/R/00_setup.R
 # -----------------------------------------------------------
 # This script sets up the R environment for the IHS Intervention Messages project.
-# It checks for and installs required packages, sets the global seed, and defines
+# It checks for, installs required packages and defines
 # key directory paths for data and results.
 # -----------------------------------------------------------
 
