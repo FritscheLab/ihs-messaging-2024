@@ -11,7 +11,7 @@ The **IHS Intervention Messages** repository provides a comprehensive toolkit fo
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ihs-messaging-2024.git
+git clone https://github.com/ihs-messaging-2024/ihs-messaging-2024.git
 cd ihs-messaging-2024
 ```
 
